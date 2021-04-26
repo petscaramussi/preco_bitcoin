@@ -3,4 +3,4 @@
  
 # Print
  
- <img src="https://github.com/petscaramussi/preco_bitcoin/blob/main/images/bitcoinApp.jpg" width="15%" hight="15%">
+ <img src="https://github.com/petscaramussi/preco_bitcoin/blob/main/images/bitcoinApp.jpg" width="25%" hight="25%">
