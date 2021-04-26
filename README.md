@@ -1,6 +1,6 @@
 # preco_bitcoin
  Um aplicativo para mostrar o preço do bitcoin em tempo real (BRL).
  
- #Print
+# Print
  
- <img src="https://drive.google.com/file/d/1H24720OWicd-Yb1yD8FUBaTqiJEuWE8N/view?usp=sharing" width="15%" hight="15%">
+ <img src="https://github.com/petscaramussi/preco_bitcoin/blob/main/images/bitcoinApp.jpg" width="15%" hight="15%">
